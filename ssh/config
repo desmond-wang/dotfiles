@@ -1,0 +1,3 @@
+Host uw
+	HostName linux.student.cs.uwaterloo.ca
+	User d268wang
